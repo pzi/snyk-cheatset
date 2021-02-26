@@ -90,7 +90,7 @@ cheatsheet do
   end
 
   category do
-    id 'Ignore vulnerabilities'
+    id 'Ignore Vulnerabilities'
 
     entry do
       command 'snyk ignore --id=ISSUE_ID'
@@ -107,7 +107,7 @@ cheatsheet do
   end
 
   category do
-    id 'Common CLI options'
+    id 'Common CLI Options'
 
     entry do
       command 'snyk [cmd] --file=package.json'
