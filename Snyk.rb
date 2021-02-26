@@ -234,10 +234,10 @@ cheatsheet do
   end
 
   notes <<-'END'
-    This cheat sheet mostly contains content of [the official Snyk Cheatsheet](https://snyk.io/blog/snyk-cli-cheat-sheet/),
-    but has been extended with content from the Snyk CLI help where deemed appropriate.
+    This cheat sheet is mostly based on [the official Snyk Cheatsheet](https://snyk.io/blog/snyk-cli-cheat-sheet/).
+    It has been converted and extended with content from the Snyk CLI help where deemed appropriate by [Patrik Affentranger](https://github.com/pzi/snyk-cheatset).
 
     Author of the original Snyk CLI Cheatsheet is Brian Vermeer
-    ([@BrianVerm](https://twitter.com/BrianVerm)) - Developer Advocate at Snyk.
+    ([@BrianVerm](https://twitter.com/BrianVerm)) a Developer Advocate at Snyk.
   END
 end
